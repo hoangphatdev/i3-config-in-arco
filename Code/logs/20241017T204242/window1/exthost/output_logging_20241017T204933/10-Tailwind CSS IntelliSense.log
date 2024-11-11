@@ -1,0 +1,61 @@
+Locating server…
+Booting server...
+Setting up server…
+Listening for messages…
+Searching for Tailwind CSS projects in the workspace's folders.
+[Global] Creating projects: []
+[Global] Preparing projects...
+[Global] Initializing projects...
+[Info  - 8:49:36 PM] [GLOBAL] No matching project for document {
+  fsPath: '/opt/lampp/htdocs/web/web1/index.php',
+  normalPath: '/opt/lampp/htdocs/web/web1/index.php'
+}
+[Global] Initialized 0 projects
+[Info  - 8:49:44 PM] [GLOBAL] No matching project for document {
+  fsPath: '/opt/lampp/htdocs/web/web1/index.php',
+  normalPath: '/opt/lampp/htdocs/web/web1/index.php'
+}
+[Info  - 8:50:48 PM] [GLOBAL] No matching project for document {
+  fsPath: '/opt/lampp/htdocs/web/web1/index.php',
+  normalPath: '/opt/lampp/htdocs/web/web1/index.php'
+}
+[Info  - 8:50:59 PM] [GLOBAL] No matching project for document {
+  fsPath: '/opt/lampp/htdocs/web/web1/index.php',
+  normalPath: '/opt/lampp/htdocs/web/web1/index.php'
+}
+[Info  - 8:51:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/opt/lampp/htdocs/web/web1/index.php',
+  normalPath: '/opt/lampp/htdocs/web/web1/index.php'
+}
+[Info  - 8:52:12 PM] [GLOBAL] No matching project for document {
+  fsPath: '/opt/lampp/htdocs/web/web1/index.php',
+  normalPath: '/opt/lampp/htdocs/web/web1/index.php'
+}
+[Info  - 8:52:12 PM] [GLOBAL] No matching project for document {
+  fsPath: '/opt/lampp/htdocs/web/web1/index.php',
+  normalPath: '/opt/lampp/htdocs/web/web1/index.php'
+}
+[Info  - 8:52:13 PM] [GLOBAL] No matching project for document {
+  fsPath: '/opt/lampp/htdocs/web/web1/index.php',
+  normalPath: '/opt/lampp/htdocs/web/web1/index.php'
+}
+[Info  - 8:52:14 PM] [GLOBAL] No matching project for document {
+  fsPath: '/opt/lampp/htdocs/web/web1/index.php',
+  normalPath: '/opt/lampp/htdocs/web/web1/index.php'
+}
+[Info  - 8:52:16 PM] [GLOBAL] No matching project for document {
+  fsPath: '/opt/lampp/htdocs/web/web1/index.php',
+  normalPath: '/opt/lampp/htdocs/web/web1/index.php'
+}
+[Info  - 8:52:17 PM] [GLOBAL] No matching project for document {
+  fsPath: '/opt/lampp/htdocs/web/web1/index.php',
+  normalPath: '/opt/lampp/htdocs/web/web1/index.php'
+}
+[Info  - 8:52:17 PM] [GLOBAL] No matching project for document {
+  fsPath: '/opt/lampp/htdocs/web/web1/index.php',
+  normalPath: '/opt/lampp/htdocs/web/web1/index.php'
+}
+[Info  - 8:52:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/opt/lampp/htdocs/web/web1/index.php',
+  normalPath: '/opt/lampp/htdocs/web/web1/index.php'
+}

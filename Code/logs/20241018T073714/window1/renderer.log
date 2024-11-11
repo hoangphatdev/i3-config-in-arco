@@ -1,0 +1,178 @@
+2024-10-18 07:37:15.516 [info] Started local extension host with pid 4264.
+2024-10-18 07:37:15.982 [warning] [zobo.php-intellisense]: Cannot register 'php.executablePath'. This property is already registered.
+2024-10-18 07:37:16.501 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: njk
+2024-10-18 07:37:16.501 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: django-html
+2024-10-18 07:37:18.244 [info] [perf] Render performance baseline is 26ms
+2024-10-18 07:37:19.240 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 07:37:22.467 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:38:45.117 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:38:52.419 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:38:56.176 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:39:06.538 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:41:33.707 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 07:54:34.038 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 07:54:35.005 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 08:01:12.052 [error] Model is disposed!: Error: Model is disposed!
+    at Om.jb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:251:257)
+    at Om.validateRange (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:254:2327)
+    at Om.ub (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:257:268)
+    at Om.vb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:257:424)
+    at Om.applyEdits (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:259:965)
+    at q2t.$onVirtualDocumentChange (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:619:5768)
+2024-10-18 08:04:26.151 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 08:04:52.553 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:04:53.613 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:05:00.448 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:05:03.574 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:05:12.699 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 08:06:31.077 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 08:06:40.645 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:06:41.925 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:06:57.374 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:07:09.310 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:15:19.306 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:16:38.409 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:16:49.249 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:16:54.907 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:17:03.373 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:18:03.942 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:20:48.015 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:20:54.541 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:20:59.049 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:23:24.816 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:31:32.764 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 08:31:56.029 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:31:58.006 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:32:02.597 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:32:04.919 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:32:13.040 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:48:03.070 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 08:48:47.346 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 08:52:32.659 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:53:37.722 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:53:43.251 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:55:41.349 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:55:44.181 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:56:11.675 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:58:54.986 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 08:58:56.770 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 08:59:28.924 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 08:59:46.758 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 09:01:15.882 [error] [ExtensionListenerError] Extension 'rafamel.subtle-brackets' FAILED to handle event: Error: Illegal value for `line`: Error: [ExtensionListenerError] Extension 'rafamel.subtle-brackets' FAILED to handle event: Error: Illegal value for `line`
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:35184)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+    at Lj.$acceptModelChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:102353)
+    at Zb.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113896)
+    at Zb.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113676)
+    at Zb.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:112765)
+    at Zb.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:111870)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110667)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:13273)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11562)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-10-18 09:01:35.848 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 09:01:36.614 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 09:01:37.895 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 09:01:38.857 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 09:06:10.727 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:06:21.635 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:06:27.660 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:06:30.796 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:06:33.273 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:06:36.953 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:06:46.882 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:07:19.626 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:08:13.377 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 09:08:49.330 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 09:09:28.724 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 09:09:35.255 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:09:37.500 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:09:38.825 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:09:42.702 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:09:43.845 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:09:44.882 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:09:46.265 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:09:47.294 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:09:49.414 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:09:53.844 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:10:01.536 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:10:18.372 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:10:20.215 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:10:39.314 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 09:18:58.802 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 09:22:29.040 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 09:30:24.581 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 09:30:41.864 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 09:31:52.112 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 09:31:55.508 [error] [ExtensionListenerError] Extension 'rafamel.subtle-brackets' FAILED to handle event: Error: Illegal value for `line`: Error: [ExtensionListenerError] Extension 'rafamel.subtle-brackets' FAILED to handle event: Error: Illegal value for `line`
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:35184)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+    at Lj.$acceptModelChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:102353)
+    at Zb.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113896)
+    at Zb.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113676)
+    at Zb.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:112765)
+    at Zb.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:111870)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110667)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:13273)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11562)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-10-18 09:32:00.723 [error] [ExtensionListenerError] Extension 'rafamel.subtle-brackets' FAILED to handle event: Error: Illegal value for `line`: Error: [ExtensionListenerError] Extension 'rafamel.subtle-brackets' FAILED to handle event: Error: Illegal value for `line`
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:35184)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+    at Lj.$acceptModelChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:102353)
+    at Zb.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113896)
+    at Zb.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113676)
+    at Zb.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:112765)
+    at Zb.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:111870)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110667)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:13273)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11562)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-10-18 09:32:10.675 [error] [ExtensionListenerError] Extension 'rafamel.subtle-brackets' FAILED to handle event: Error: Illegal value for `line`: Error: [ExtensionListenerError] Extension 'rafamel.subtle-brackets' FAILED to handle event: Error: Illegal value for `line`
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:35184)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+    at Lj.$acceptModelChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:102353)
+    at Zb.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113896)
+    at Zb.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113676)
+    at Zb.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:112765)
+    at Zb.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:111870)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110667)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:13273)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11562)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)

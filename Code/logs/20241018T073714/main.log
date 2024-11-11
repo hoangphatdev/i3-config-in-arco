@@ -1,0 +1,4 @@
+2024-10-18 07:37:14.607 [info] update#setState idle
+2024-10-18 07:37:14.611 [info] update#ctor - manual checks only; automatic updates are disabled by user preference
+2024-10-18 09:35:17.367 [error] [UtilityProcessWorker]: terminated unexpectedly with code 1017911152, signal: unknown
+2024-10-18 09:35:17.402 [info] Extension host with pid 4264 exited with code: 0, signal: unknown.

@@ -1,0 +1,12 @@
+2024-10-21 22:42:39.891 [info] [Info  - 10:42:39 PM] Server process exited successfully
+2024-10-21 22:51:04.408 [info] read schema from vscode: vscode://schemas/settings/user
+2024-10-21 22:51:04.528 [info] schema change detected vscode://schemas/settings/user
+2024-10-21 22:51:04.572 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2024-10-21 22:51:04.573 [info] read schema from vscode: vscode://schemas/ignoredSettings
+2024-10-21 22:51:04.581 [info] read schema from vscode: vscode://schemas/launch
+2024-10-21 22:51:04.582 [info] read schema from vscode: vscode://schemas/token-styling
+2024-10-21 22:51:04.583 [info] read schema from vscode: vscode://schemas/textmate-colors
+2024-10-21 22:51:04.583 [info] read schema from vscode: vscode://schemas/workbench-colors
+2024-10-21 22:51:04.709 [info] cancelled
+2024-10-21 22:51:04.710 [info] read schema from vscode: vscode://schemas/settings/user
+2024-10-21 22:51:06.895 [info] schema change detected vscode://schemas/settings/user

@@ -1,0 +1,83 @@
+{
+  "git.openRepositoryInParentFolders": "always",
+  "editor.fontSize": 17,
+  "extensions.experimental.affinity": {
+    "asvetliakov.vscode-neovim": 1
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "files.associations": {
+    "*.tsx": "typescriptreact"
+  },
+  "workbench.settings.applyToAllProfiles": ["editor.fontFamily"],
+  "editor.fontFamily": "Cascadia Code,Fira Code,JetBrains Mono\t,Iosevka,Hasklig,Monoid,'Victor Mono', monospace",
+  "editor.fontLigatures": true,
+  "workbench.startupEditor": "none",
+  "security.workspace.trust.untrustedFiles": "open",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDragAndDrop": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.autoClosingBrackets": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.smoothScrolling": true,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.minimap.maxColumn": 500,
+  "editor.matchBrackets": false,
+  "vim.useCtrlKeys": true,
+  "vim.easymotion": true,
+  "glassit.alpha": 220,
+  "animations.Install-Method": "Apc Customize UI++",
+  "update.mode": "manual",
+  "apc.imports": [
+    "file:///c:/Users/latru/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
+  ],
+  "apc.electron": {
+    "titleBarStyle": "hidden",
+    "frame": false,
+    "backgroundColor": "rgba(123, 123, 123, 0.5)",
+    "transparent": true,
+    "vibrancy": "dark",
+    "opacity": 0.9, // Range: 0-1 (To go fully transparent, set it to 0)
+    "visualEffectState": "active"
+
+    // "titleBarOverlay": {  // hiện nút - 0 x của windows
+    //   "color": "#ed3326",
+    //   "symbolColor": "#121212",
+    //   "height": 10
+    // }
+  },
+  "apc.activityBar": {
+    // "position": "default", // Options: bottom, left (default). Works only with 'bottom' or default position.
+    "size": 45, // Height (for bottom) or width (in default position)
+    "itemSize": 45, // Size of items within the bar (default: size)
+    "itemMargin": 5 // Margin between two items (default: 3)
+  },
+  "apc.sidebar.titlebar": {
+    "height": 40,
+    "fontSize": 13
+  },
+  "window.titleBarStyle": "native",
+  "window.commandCenter": false,
+  "workbench.statusBar.visible": false,
+  "window.customTitleBarVisibility": "never",
+  "breadcrumbs.enabled": false,
+  "workbench.iconTheme": "a-file-icon-vscode",
+  "workbench.colorTheme": "Nord",
+  "workbench.productIconTheme": "a-file-icon-vscode-product-icon-theme"
+  // "backgroundCover.imagePath": "c:\\Users\\latru\\Pictures\\car\\anky-lau-JOiFuLDbJe0-unsplash.jpg"
+}

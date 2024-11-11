@@ -1,0 +1,426 @@
+2024-10-17 20:54:39.891 [info] Started local extension host with pid 12248.
+2024-10-17 20:54:40.367 [warning] [zobo.php-intellisense]: Cannot register 'php.executablePath'. This property is already registered.
+2024-10-17 20:54:40.856 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: njk
+2024-10-17 20:54:40.857 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: django-html
+2024-10-17 20:54:42.769 [info] [perf] Render performance baseline is 160ms
+2024-10-17 20:54:43.508 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 20:54:45.173 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 20:54:46.936 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 20:54:48.162 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 20:54:52.256 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 20:54:53.774 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 20:54:54.852 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 20:55:19.131 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 20:55:58.378 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 20:55:59.954 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 20:59:26.421 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 21:11:08.864 [error] Cannot read properties of null (reading 'command'): TypeError: Cannot read properties of null (reading 'command')
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:139691
+    at Array.map (<anonymous>)
+    at tU.provideInlineCompletions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:139671)
+2024-10-17 21:11:32.421 [error] Cannot read properties of null (reading 'command'): TypeError: Cannot read properties of null (reading 'command')
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:139691
+    at Array.map (<anonymous>)
+    at tU.provideInlineCompletions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:139671)
+2024-10-17 21:27:36.566 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 21:38:08.093 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 21:38:08.476 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 21:38:10.502 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 21:42:51.774 [error] Cannot read properties of undefined (reading 'range'): TypeError: Cannot read properties of undefined (reading 'range')
+    at Xn (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:50424)
+    at /home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:50021
+    at Array.map (<anonymous>)
+    at Object.tt [as asSymbolInformations] (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:50013)
+    at /home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:106:31162
+    at Z3.provideDocumentSymbols (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:122224)
+2024-10-17 21:49:02.047 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 21:49:11.674 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 21:49:36.442 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 21:49:39.535 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 21:49:41.417 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 21:49:42.526 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 21:49:43.586 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 21:49:45.242 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 21:49:46.277 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 21:49:47.613 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 21:49:48.890 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 21:50:07.958 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 21:50:14.584 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 21:50:15.765 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 21:50:17.268 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 21:52:26.246 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 21:52:28.730 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 21:52:44.832 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:19:21.104 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 22:19:21.442 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 22:19:23.344 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:19:32.351 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:19:37.349 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:19:39.951 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:24:45.418 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:24:46.976 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:26:04.726 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:27:08.748 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 22:27:27.779 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:27:29.749 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:27:33.860 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:27:38.827 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:27:41.109 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:27:43.283 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:27:50.379 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:27:53.358 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:27:54.575 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:28:01.199 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:28:06.411 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:28:07.478 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:28:08.961 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:28:37.271 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 22:28:41.909 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 22:29:02.872 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 22:29:03.345 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 22:29:06.695 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 22:29:08.576 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at new Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-17 22:29:44.471 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 22:29:45.136 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:29:51.354 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:29:55.402 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 22:30:23.866 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at new Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-17 22:30:45.602 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at new Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-17 22:37:38.184 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 22:37:46.710 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:37:53.923 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:37:57.620 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:38:00.417 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:38:07.166 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:38:14.654 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:38:18.871 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:38:49.384 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:40:44.247 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:41:37.002 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:41:39.703 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:41:41.671 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:41:47.705 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:41:49.092 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:41:50.111 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:41:52.338 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:41:55.101 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:42:27.907 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:45:47.741 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 22:45:50.795 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at new Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-17 22:45:55.347 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at new Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-17 22:46:00.540 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at new Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-17 22:46:04.224 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at new Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-17 22:46:06.987 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at new Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-17 22:46:11.290 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at new Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-17 22:46:21.216 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 22:46:23.084 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-17 22:48:19.705 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 22:48:44.412 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 22:48:45.835 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 23:02:53.394 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at new Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-17 23:10:17.449 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at new Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-17 23:10:19.494 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-17 23:10:22.109 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:14:09.280 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at new Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-18 06:14:29.857 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at new Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-18 06:14:49.734 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-18 06:14:55.281 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-18 06:15:02.451 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-18 06:15:14.990 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-18 06:15:23.707 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-18 06:15:28.418 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at processImmediate (node:internal/timers:454:9)
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-18 06:15:29.548 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-18 06:15:39.542 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-18 06:15:47.096 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-18 06:16:04.068 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-18 06:18:09.066 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at processImmediate (node:internal/timers:454:9)
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-18 06:18:09.557 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-18 06:18:09.829 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Le (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1186)
+    at new po (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20856)
+    at Ms (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:22365)
+    at asRange (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:140:24)
+    at Object.asHover (/home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/protocolConverter.js:232:63)
+    at /home/hplat/.vscode/extensions/zobo.php-intellisense-1.3.3/node_modules/vscode-languageclient/lib/common/hover.js:41:62
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at processImmediate (node:internal/timers:454:9)
+    at K3.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:125214)
+2024-10-18 06:18:15.916 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:18:17.345 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:18:55.074 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:18:56.157 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:19:08.630 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:19:09.150 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:19:12.137 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:19:22.834 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:19:27.540 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:19:35.537 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:19:37.533 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:19:40.207 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:19:40.713 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:31:43.293 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:31:52.035 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:31:54.040 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:31:59.808 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:32:01.375 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:32:02.422 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:32:59.830 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:33:02.071 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:33:12.354 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:36:39.217 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:37:57.288 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:38:03.119 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:39:54.756 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:40:33.109 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:40:37.438 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:43:08.674 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:55:26.753 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:55:56.909 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:57:19.352 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:57:32.856 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:57:43.835 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:57:49.120 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:57:55.272 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 06:58:17.378 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:58:19.557 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:58:21.144 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:58:23.408 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:58:24.722 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:58:34.413 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:58:42.056 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:58:43.484 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:59:09.567 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:59:17.480 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 06:59:29.100 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:01:56.417 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 07:02:01.040 [error] [network] #131: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-10-18 07:02:23.654 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 07:03:12.043 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 07:04:11.186 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 07:04:13.714 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 07:06:42.770 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 07:06:45.881 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 07:06:54.963 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 07:07:01.821 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 07:07:02.080 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:20:59.878 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-10-18 07:21:02.927 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:21:10.946 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:21:12.016 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:21:13.116 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:21:15.467 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:21:16.976 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:21:57.974 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:22:05.035 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:22:13.923 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:22:15.609 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:22:20.926 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:22:22.848 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:22:25.648 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:22:36.672 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:22:44.696 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:22:47.296 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:23:00.164 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:23:08.772 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:23:13.171 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:23:15.186 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:23:16.950 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:23:20.537 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:23:32.072 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:23:56.653 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:23:59.391 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:24:08.981 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:24:10.691 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:24:13.037 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:24:14.902 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:24:19.904 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:24:20.940 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:24:22.090 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:24:28.283 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:24:31.380 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:24:40.075 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:24:42.543 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:24:44.043 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:24:46.624 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:24:47.838 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:24:50.969 [error] An unknown error occurred. Please consult the log for more details.
+2024-10-18 07:24:53.016 [error] An unknown error occurred. Please consult the log for more details.

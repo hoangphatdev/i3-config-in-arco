@@ -1,0 +1,13 @@
+2024-10-16 12:20:01.666 [info] update#setState idle
+2024-10-16 12:20:01.666 [info] update#ctor - manual checks only; automatic updates are disabled by user preference
+2024-10-16 12:22:09.239 [info] Extension host with pid 18386 exited with code: 0, signal: unknown.
+2024-10-16 12:22:55.000 [info] Extension host with pid 19039 exited with code: 0, signal: unknown.
+2024-10-16 12:22:57.575 [info] Extension host with pid 19222 exited with code: 0, signal: unknown.
+2024-10-16 12:23:04.460 [info] Extension host with pid 19285 exited with code: 0, signal: unknown.
+2024-10-16 12:23:08.457 [warning] [perf] profiling STARTED 64a5dabc-359e-4301-b491-c64047dbe7e7
+2024-10-16 12:23:13.488 [warning] [perf] profiling DONE 64a5dabc-359e-4301-b491-c64047dbe7e7
+2024-10-16 12:23:13.715 [warning] [perf] profiling STARTED 64a5dabc-359e-4301-b491-c64047dbe7e7
+2024-10-16 12:23:18.740 [warning] [perf] profiling DONE 64a5dabc-359e-4301-b491-c64047dbe7e7
+2024-10-16 12:23:18.958 [warning] [perf] profiling STARTED 64a5dabc-359e-4301-b491-c64047dbe7e7
+2024-10-16 12:23:23.981 [warning] [perf] profiling DONE 64a5dabc-359e-4301-b491-c64047dbe7e7
+2024-10-16 12:54:41.377 [info] Extension host with pid 19385 exited with code: 0, signal: unknown.

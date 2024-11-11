@@ -1,0 +1,29 @@
+2024-10-21 22:42:33.086 [info] Deleted uninstalled extension from disk eamodio.gitlens /home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1
+2024-10-21 22:42:33.160 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1.-7075cdf3.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1.-7075cdf3.vsctmp'
+    at lm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39253)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39360)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22661)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:15994)
+    at async eh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84484)
+    at async Kl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66600)
+2024-10-21 22:42:37.442 [info] Getting Manifest... devsense.composer-php-vscode
+2024-10-21 22:42:37.443 [info] Getting Manifest... devsense.phptools-vscode
+2024-10-21 22:42:37.444 [info] Getting Manifest... devsense.profiler-php-vscode
+2024-10-21 22:42:37.934 [info] Installing extension: devsense.composer-php-vscode {"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hplat/.config/Code/User/profiles/-2382b5f8/extensions.json","path":"/home/hplat/.config/Code/User/profiles/-2382b5f8/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-10-21 22:42:37.938 [info] Installing extension: devsense.profiler-php-vscode {"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hplat/.config/Code/User/profiles/-2382b5f8/extensions.json","path":"/home/hplat/.config/Code/User/profiles/-2382b5f8/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-10-21 22:42:38.683 [info] Installing extension: devsense.phptools-vscode {"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hplat/.config/Code/User/profiles/-2382b5f8/extensions.json","path":"/home/hplat/.config/Code/User/profiles/-2382b5f8/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-10-21 22:42:39.246 [info] Extension signature verification result for devsense.profiler-php-vscode: UnknownError. Executed: true. Duration: 27ms.
+2024-10-21 22:42:39.307 [info] Extension signature verification result for devsense.composer-php-vscode: UnknownError. Executed: true. Duration: 9ms.
+2024-10-21 22:42:39.370 [info] Extracted extension to file:///home/hplat/.vscode/extensions/devsense.profiler-php-vscode-1.52.16226: devsense.profiler-php-vscode
+2024-10-21 22:42:39.371 [info] Extracted extension to file:///home/hplat/.vscode/extensions/devsense.composer-php-vscode-1.52.16226: devsense.composer-php-vscode
+2024-10-21 22:42:39.373 [info] Renamed to /home/hplat/.vscode/extensions/devsense.profiler-php-vscode-1.52.16226
+2024-10-21 22:42:39.375 [info] Renamed to /home/hplat/.vscode/extensions/devsense.composer-php-vscode-1.52.16226
+2024-10-21 22:42:39.386 [info] Marked extension as uninstalled devsense.profiler-php-vscode-1.51.16099
+2024-10-21 22:42:39.424 [info] Marked extension as uninstalled devsense.composer-php-vscode-1.51.16099
+2024-10-21 22:42:39.430 [info] Extension installed successfully: devsense.profiler-php-vscode vscode-userdata:/home/hplat/.config/Code/User/profiles/-2382b5f8/extensions.json
+2024-10-21 22:42:39.433 [info] Extension installed successfully: devsense.composer-php-vscode vscode-userdata:/home/hplat/.config/Code/User/profiles/-2382b5f8/extensions.json
+2024-10-21 22:42:45.662 [info] Extension signature verification result for devsense.phptools-vscode: UnknownError. Executed: true. Duration: 13ms.
+2024-10-21 22:42:45.827 [info] Extracted extension to file:///home/hplat/.vscode/extensions/devsense.phptools-vscode-1.52.16226-linux-x64: devsense.phptools-vscode
+2024-10-21 22:42:45.842 [info] Renamed to /home/hplat/.vscode/extensions/devsense.phptools-vscode-1.52.16226-linux-x64
+2024-10-21 22:42:45.861 [info] Marked extension as uninstalled devsense.phptools-vscode-1.51.16099-linux-x64
+2024-10-21 22:42:45.875 [info] Extension installed successfully: devsense.phptools-vscode vscode-userdata:/home/hplat/.config/Code/User/profiles/-2382b5f8/extensions.json

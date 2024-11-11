@@ -1,0 +1,851 @@
+2024-10-18 07:37:15.992 [info] Extension host with pid 4264 started
+2024-10-18 07:37:15.993 [info] Skipping acquiring lock for /home/hplat/.config/Code/User/workspaceStorage/0dff8024636214fa6f15b61a3f5bf946.
+2024-10-18 07:37:16.254 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-18 07:37:16.268 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2024-10-18 07:37:16.279 [info] ExtensionService#_doActivateExtension anteprimorac.html-end-tag-labels, startup: false, activationEvent: 'onLanguage:php'
+2024-10-18 07:37:16.540 [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'
+2024-10-18 07:37:16.570 [info] ExtensionService#_doActivateExtension DEVSENSE.intelli-php-vscode, startup: false, activationEvent: 'onLanguage:php'
+2024-10-18 07:37:16.622 [info] ExtensionService#_doActivateExtension DEVSENSE.phptools-vscode, startup: false, activationEvent: 'onLanguage:php'
+2024-10-18 07:37:16.719 [info] ExtensionService#_doActivateExtension zobo.php-intellisense, startup: false, activationEvent: 'onLanguage:php'
+2024-10-18 07:37:17.015 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-10-18 07:37:17.129 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-10-18 07:37:17.131 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-10-18 07:37:17.134 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-10-18 07:37:17.156 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2024-10-18 07:37:17.186 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2024-10-18 07:37:17.188 [info] ExtensionService#_doActivateExtension rafamel.subtle-brackets, startup: true, activationEvent: '*'
+2024-10-18 07:37:17.280 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-10-18 07:37:17.358 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-18 07:37:17.487 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-18 07:37:17.499 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-18 07:37:17.544 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-18 07:37:17.748 [info] Eager extensions activated
+2024-10-18 07:37:17.790 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 07:37:17.793 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 07:37:17.813 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 07:37:17.853 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 07:37:18.287 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 07:37:18.399 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 07:37:18.401 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 07:37:18.467 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 07:37:18.506 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 07:37:18.514 [info] ExtensionService#_doActivateExtension tonybaloney.vscode-pets, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 07:37:18.530 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 07:37:19.253 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'api', root cause: DEVSENSE.phptools-vscode
+2024-10-18 07:37:22.455 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 07:37:22.455 [error] undefined
+2024-10-18 07:37:22.545 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 07:37:22.556 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 07:38:45.116 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 07:38:45.116 [error] undefined
+2024-10-18 07:38:52.408 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 07:38:52.408 [error] undefined
+2024-10-18 07:38:52.424 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 07:38:52.424 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 07:38:56.175 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 07:38:56.175 [error] undefined
+2024-10-18 07:38:56.283 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 07:38:56.283 [error] undefined
+2024-10-18 07:39:06.537 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 07:39:06.537 [error] undefined
+2024-10-18 07:39:06.547 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 07:39:06.547 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 07:39:08.088 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 07:39:08.088 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 07:40:51.448 [warning] TextEditor is closed/disposed
+2024-10-18 07:40:51.529 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-10-18 07:40:51.561 [info] ExtensionService#_doActivateExtension solnurkarim.html-to-css-autocompletion, startup: false, activationEvent: 'onLanguage:css'
+2024-10-18 07:41:05.763 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-10-18 07:41:05.777 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-10-18 07:42:31.782 [warning] TextEditor is closed/disposed
+2024-10-18 07:42:37.952 [warning] TextEditor is closed/disposed
+2024-10-18 08:04:26.091 [warning] TextEditor is closed/disposed
+2024-10-18 08:04:52.552 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:04:52.552 [error] undefined
+2024-10-18 08:04:53.376 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:04:53.376 [error] undefined
+2024-10-18 08:04:53.493 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:04:53.493 [error] undefined
+2024-10-18 08:04:53.612 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:04:53.612 [error] undefined
+2024-10-18 08:04:53.746 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:04:53.746 [error] undefined
+2024-10-18 08:05:00.448 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:05:00.448 [error] undefined
+2024-10-18 08:05:00.600 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:05:00.600 [error] undefined
+2024-10-18 08:05:00.683 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:05:00.683 [error] undefined
+2024-10-18 08:05:00.687 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:05:00.688 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:05:01.415 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:05:01.415 [error] undefined
+2024-10-18 08:05:03.573 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:05:03.573 [error] undefined
+2024-10-18 08:06:31.020 [warning] TextEditor is closed/disposed
+2024-10-18 08:06:40.644 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:06:40.644 [error] undefined
+2024-10-18 08:06:41.924 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:06:41.924 [error] undefined
+2024-10-18 08:06:42.008 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:06:42.008 [error] undefined
+2024-10-18 08:06:42.193 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:06:42.193 [error] undefined
+2024-10-18 08:06:42.242 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:06:42.242 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:06:57.373 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:06:57.373 [error] undefined
+2024-10-18 08:06:57.510 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:06:57.510 [error] undefined
+2024-10-18 08:06:57.740 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:06:57.740 [error] undefined
+2024-10-18 08:06:57.789 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:06:57.789 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:07:09.310 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:07:09.310 [error] undefined
+2024-10-18 08:07:09.449 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:07:09.449 [error] undefined
+2024-10-18 08:07:09.666 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:07:09.666 [error] undefined
+2024-10-18 08:07:09.715 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:07:09.715 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:15:19.304 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:15:19.304 [error] undefined
+2024-10-18 08:16:38.408 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:16:38.408 [error] undefined
+2024-10-18 08:16:49.249 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:16:49.249 [error] undefined
+2024-10-18 08:16:54.907 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:16:54.907 [error] undefined
+2024-10-18 08:17:03.372 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:17:03.372 [error] undefined
+2024-10-18 08:18:03.936 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:18:03.936 [error] undefined
+2024-10-18 08:18:03.954 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:18:03.954 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:20:48.014 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:20:48.014 [error] undefined
+2024-10-18 08:20:54.541 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:20:54.541 [error] undefined
+2024-10-18 08:20:59.046 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:20:59.046 [error] undefined
+2024-10-18 08:23:24.815 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:23:24.815 [error] undefined
+2024-10-18 08:23:24.825 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:23:24.825 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:23:24.996 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:23:24.996 [error] undefined
+2024-10-18 08:23:25.001 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:23:25.001 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:31:56.028 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:31:56.028 [error] undefined
+2024-10-18 08:31:56.052 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:31:56.052 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:31:56.638 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:31:56.638 [error] undefined
+2024-10-18 08:31:56.666 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:31:56.666 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:31:58.006 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:31:58.006 [error] undefined
+2024-10-18 08:31:58.182 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:31:58.182 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:32:02.596 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:32:02.596 [error] undefined
+2024-10-18 08:32:02.733 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:32:02.733 [error] undefined
+2024-10-18 08:32:02.902 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:32:02.902 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:32:04.917 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:32:04.917 [error] undefined
+2024-10-18 08:32:13.029 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:32:13.029 [error] undefined
+2024-10-18 08:32:13.045 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:32:13.046 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:32:13.539 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:32:13.540 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:32:13.839 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:32:13.839 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:32:14.135 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:32:14.135 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:52:32.658 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:52:32.658 [error] undefined
+2024-10-18 08:53:37.711 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:53:37.711 [error] undefined
+2024-10-18 08:53:37.738 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:53:37.738 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:53:37.836 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:53:37.836 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:53:43.250 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:53:43.250 [error] undefined
+2024-10-18 08:53:43.271 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:53:43.271 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:53:43.423 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:53:43.423 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:55:41.348 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:55:41.348 [error] undefined
+2024-10-18 08:55:44.181 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:55:44.181 [error] undefined
+2024-10-18 08:55:44.205 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:55:44.205 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:56:11.674 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:56:11.674 [error] undefined
+2024-10-18 08:58:56.762 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 08:58:56.762 [error] undefined
+2024-10-18 08:58:56.783 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 08:58:56.784 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 08:59:54.257 [error] Error: Illegal value for `line`
+    at TF.t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:1005)
+    at Object.change (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:72)
+    at /home/hplat/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10/packages/extension/dist/webpack:/auto-rename-tag/src/extensionMain.ts:317:44
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:35160)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+    at Lj.$acceptModelChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:102353)
+    at Zb.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113896)
+    at Zb.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113676)
+    at Zb.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:112765)
+    at Zb.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:111870)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110667)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:13273)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11562)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-10-18 09:01:15.880 [error] Error: [ExtensionListenerError] Extension 'rafamel.subtle-brackets' FAILED to handle event: Error: Illegal value for `line`
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:35184)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+    at Lj.$acceptModelChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:102353)
+    at Zb.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113896)
+    at Zb.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113676)
+    at Zb.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:112765)
+    at Zb.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:111870)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110667)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:13273)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11562)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-10-18 09:01:16.882 [error] Error: Illegal value for `line`
+    at TF.t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:1005)
+    at Object.change (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:72)
+    at /home/hplat/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10/packages/extension/dist/webpack:/auto-rename-tag/src/extensionMain.ts:317:44
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:35160)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+    at Lj.$acceptModelChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:102353)
+    at Zb.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113896)
+    at Zb.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113676)
+    at Zb.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:112765)
+    at Zb.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:111870)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110667)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:13273)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11562)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-10-18 09:06:10.727 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:06:10.727 [error] undefined
+2024-10-18 09:06:10.841 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:06:10.841 [error] undefined
+2024-10-18 09:06:10.883 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:06:10.883 [error] undefined
+2024-10-18 09:06:10.895 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:06:10.895 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:06:11.263 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:06:11.263 [error] undefined
+2024-10-18 09:06:11.350 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:06:11.350 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:06:11.399 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:06:11.399 [error] undefined
+2024-10-18 09:06:11.595 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:06:11.595 [error] undefined
+2024-10-18 09:06:11.699 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:06:11.700 [error] undefined
+2024-10-18 09:06:21.634 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:06:21.634 [error] undefined
+2024-10-18 09:06:21.641 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:06:21.641 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:06:21.749 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:06:21.749 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:06:21.896 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:06:21.896 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:06:23.249 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:06:23.249 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:06:27.659 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:06:27.659 [error] undefined
+2024-10-18 09:06:27.747 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:06:27.747 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:06:27.797 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:06:27.798 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:06:29.892 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:06:29.892 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:06:30.794 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:06:30.794 [error] undefined
+2024-10-18 09:06:30.876 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:06:30.876 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:06:33.272 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:06:33.272 [error] undefined
+2024-10-18 09:06:33.351 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:06:33.351 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:06:36.952 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:06:36.952 [error] undefined
+2024-10-18 09:06:37.032 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:06:37.032 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:06:46.880 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:06:46.880 [error] undefined
+2024-10-18 09:06:46.966 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:06:46.967 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:07:19.626 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:07:19.626 [error] undefined
+2024-10-18 09:09:35.254 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:35.254 [error] undefined
+2024-10-18 09:09:35.360 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:35.360 [error] undefined
+2024-10-18 09:09:37.499 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:37.499 [error] undefined
+2024-10-18 09:09:37.513 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:09:37.513 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:09:37.870 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:09:37.870 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:09:37.995 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:09:37.996 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:09:38.471 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:38.471 [error] undefined
+2024-10-18 09:09:38.823 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:38.823 [error] undefined
+2024-10-18 09:09:39.630 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:09:39.630 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:09:42.702 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:42.702 [error] undefined
+2024-10-18 09:09:42.709 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:09:42.709 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:09:43.478 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:43.478 [error] undefined
+2024-10-18 09:09:43.617 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:43.617 [error] undefined
+2024-10-18 09:09:43.669 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:09:43.669 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:09:43.844 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:43.844 [error] undefined
+2024-10-18 09:09:43.894 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:09:43.894 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:09:44.306 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:44.306 [error] undefined
+2024-10-18 09:09:44.349 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:09:44.349 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:09:44.420 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:44.420 [error] undefined
+2024-10-18 09:09:44.468 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:09:44.468 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:09:44.546 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:44.546 [error] undefined
+2024-10-18 09:09:44.781 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:44.781 [error] undefined
+2024-10-18 09:09:44.827 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:09:44.827 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:09:44.882 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:44.882 [error] undefined
+2024-10-18 09:09:46.265 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:46.265 [error] undefined
+2024-10-18 09:09:46.310 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:09:46.310 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:09:46.577 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:46.577 [error] undefined
+2024-10-18 09:09:46.581 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:09:46.581 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:09:46.892 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:46.892 [error] undefined
+2024-10-18 09:09:47.293 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:47.293 [error] undefined
+2024-10-18 09:09:47.341 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:09:47.341 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:09:47.461 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:47.461 [error] undefined
+2024-10-18 09:09:47.620 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:47.620 [error] undefined
+2024-10-18 09:09:47.661 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:09:47.661 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:09:47.733 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:47.733 [error] undefined
+2024-10-18 09:09:47.813 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:47.813 [error] undefined
+2024-10-18 09:09:48.029 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:48.029 [error] undefined
+2024-10-18 09:09:48.241 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:48.241 [error] undefined
+2024-10-18 09:09:49.413 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:49.413 [error] undefined
+2024-10-18 09:09:49.639 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:49.639 [error] undefined
+2024-10-18 09:09:53.841 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:09:53.841 [error] undefined
+2024-10-18 09:09:53.923 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:09:53.923 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:09:54.209 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:09:54.210 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:10:01.534 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:10:01.534 [error] undefined
+2024-10-18 09:10:01.623 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:10:01.623 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:10:02.132 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:10:02.132 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:10:06.618 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:10:06.618 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:10:18.367 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:10:18.367 [error] undefined
+2024-10-18 09:10:18.446 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:10:18.446 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:10:20.214 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:10:20.214 [error] undefined
+2024-10-18 09:10:20.288 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:10:20.288 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:10:21.029 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:10:21.029 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:10:39.312 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:10:39.312 [error] undefined
+2024-10-18 09:10:39.397 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:10:39.398 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:10:39.768 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:10:39.768 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:10:40.047 [error] [ecmel.vscode-html-css] provider FAILED
+2024-10-18 09:10:40.047 [error] undefined
+2024-10-18 09:10:40.115 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:10:40.115 [error] TypeError: Cannot read properties of null (reading 'tags')
+    at A (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:105:46585)
+    at eC.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:136944)
+2024-10-18 09:30:41.796 [warning] TextEditor is closed/disposed
+2024-10-18 09:30:41.796 [warning] TextEditor is closed/disposed
+2024-10-18 09:30:41.841 [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+2024-10-18 09:30:41.842 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2024-10-18 09:31:55.505 [error] Error: [ExtensionListenerError] Extension 'rafamel.subtle-brackets' FAILED to handle event: Error: Illegal value for `line`
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:35184)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+    at Lj.$acceptModelChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:102353)
+    at Zb.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113896)
+    at Zb.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113676)
+    at Zb.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:112765)
+    at Zb.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:111870)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110667)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:13273)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11562)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-10-18 09:32:00.711 [error] Error: [ExtensionListenerError] Extension 'rafamel.subtle-brackets' FAILED to handle event: Error: Illegal value for `line`
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:35184)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+    at Lj.$acceptModelChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:102353)
+    at Zb.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113896)
+    at Zb.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113676)
+    at Zb.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:112765)
+    at Zb.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:111870)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110667)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:13273)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11562)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-10-18 09:32:10.672 [error] Error: [ExtensionListenerError] Extension 'rafamel.subtle-brackets' FAILED to handle event: Error: Illegal value for `line`
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:35184)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+    at Lj.$acceptModelChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:102353)
+    at Zb.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113896)
+    at Zb.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113676)
+    at Zb.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:112765)
+    at Zb.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:111870)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110667)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:13273)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11562)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-10-18 09:32:11.155 [error] Error: [ExtensionListenerError] Extension 'rafamel.subtle-brackets' FAILED to handle event: Error: Illegal value for `line`
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:35184)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+    at Lj.$acceptModelChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:102353)
+    at Zb.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113896)
+    at Zb.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113676)
+    at Zb.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:112765)
+    at Zb.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:111870)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110667)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at gh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:13273)
+    at T.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+    at T.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+    at no.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11562)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-10-18 09:35:17.207 [info] Extension host terminating: renderer closed the MessagePort
+2024-10-18 09:35:17.267 [error] An error occurred when disposing the subscriptions for extension 'bmewburn.vscode-intelephense-client':
+2024-10-18 09:35:17.268 [error] TypeError: Cannot read private member #e from an object whose class did not declare it
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20068)
+    at Si (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+    at hB.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+    at Array.map (<anonymous>)
+    at hB.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+    at hB.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+    at M3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at ps (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11603)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-10-18 09:35:17.293 [error] An error occurred when deactivating the extension 'rafamel.subtle-brackets':
+2024-10-18 09:35:17.294 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+    at Object.deactivate (/home/hplat/.vscode/extensions/rafamel.subtle-brackets-3.0.0/out/extension.js:42:13)
+    at hB.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11727)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+    at Array.map (<anonymous>)
+    at hB.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+    at hB.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+    at M3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at ps (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11603)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-10-18 09:35:17.307 [warning] Canceled
+2024-10-18 09:35:17.319 [error] TypeError: r.some is not a function
+    at Function.saveToDisk (/home/hplat/.vscode/extensions/vscodevim.vim-1.28.1/out/extension.js:2:646151)
+    at Object.t.deactivate (/home/hplat/.vscode/extensions/vscodevim.vim-1.28.1/out/extension.js:2:176792)
+    at hB.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11727)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+    at Array.map (<anonymous>)
+    at hB.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+    at hB.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+    at M3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at ps (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11603)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-10-18 09:35:17.341 [error] Canceled: Canceled
+    at eA (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:109321)
+    at Zb.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113933)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:111427)
+    at T0.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+    at T0.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+    at T0.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+    at T0.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+    at T0.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+    at f (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1492:13980)
+    at c (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1492:18539)
+    at ActionRunners._updateContextKeys (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1107:65658)
+    at s (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1107:64102)
+    at RegisteredActionRunner.unregister (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1107:64245)
+    at RegisteredActionRunner.dispose (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1107:62899)
+    at ActionRunners.dispose (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1107:63685)
+    at /home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1448:19218
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1448:19200)
+    at Si (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+    at hB.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+    at Array.map (<anonymous>)
+    at hB.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+    at hB.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+    at M3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at ps (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11603)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619) setContext undefined
+2024-10-18 09:35:17.342 [error] Canceled: Canceled
+    at eA (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:109321)
+    at Zb.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113933)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:111427)
+    at T0.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+    at T0.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+    at T0.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+    at T0.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+    at T0.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+    at f (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1492:13980)
+    at c (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1492:18539)
+    at ActionRunners._updateContextKeys (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1107:65658)
+    at s (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1107:64102)
+    at RegisteredActionRunner.unregister (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1107:64245)
+    at RegisteredActionRunner.dispose (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1107:62899)
+    at ActionRunners.dispose (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1107:63685)
+    at /home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1448:19218
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1448:19200)
+    at Si (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+    at hB.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+    at Array.map (<anonymous>)
+    at hB.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+    at hB.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+    at M3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at ps (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11603)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619) setContext undefined
+2024-10-18 09:35:17.343 [error] Canceled: Canceled
+    at eA (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:109321)
+    at Zb.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113933)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:111427)
+    at T0.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+    at T0.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+    at T0.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+    at T0.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+    at T0.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+    at f (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1492:13980)
+    at c (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1492:18539)
+    at ActionRunners._updateContextKeys (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1107:65658)
+    at s (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1107:64102)
+    at RegisteredActionRunner.unregister (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1107:64245)
+    at RegisteredActionRunner.dispose (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1107:62899)
+    at ActionRunners.dispose (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1107:63685)
+    at /home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1448:19218
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/hplat/.vscode/extensions/eamodio.gitlens-15.6.1/dist/gitlens.js:1448:19200)
+    at Si (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+    at hB.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+    at Array.map (<anonymous>)
+    at hB.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+    at hB.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+    at M3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at ps (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11603)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619) setContext undefined
+2024-10-18 09:35:17.356 [error] Canceled: Canceled
+    at eA (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:109321)
+    at Zb.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113933)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:111427)
+    at T0.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+    at T0.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+    at T0.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+    at T0.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+    at T0.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+    at pE (/home/hplat/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.11/dist/extension.js:40:8772)
+    at Ne (/home/hplat/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.11/dist/extension.js:4:1357)
+    at me (/home/hplat/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.11/dist/extension.js:3:6845)
+    at Immediate.<anonymous> (/home/hplat/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.11/dist/extension.js:3:6723)
+    at processImmediate (node:internal/timers:483:21) setContext undefined
+2024-10-18 09:35:17.389 [error] Error: Channel has been closed
+    at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:2345)
+    at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:2463)
+    at w.logOutputMessage (/opt/visual-studio-code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain.js:1:255764)
+    at w.info (/opt/visual-studio-code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain.js:1:255497)
+    at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain.js:1:444159)
+    at ChildProcess.emit (node:events:519:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-10-18 09:35:17.395 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:35:17.395 [error] Error: Connection got disposed.
+    at Object.dispose (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:101:4124)
+    at Object.dispose (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:106:9617)
+    at /home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:108:6974
+2024-10-18 09:35:17.395 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:35:17.395 [error] Error: Connection got disposed.
+    at Object.dispose (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:101:4124)
+    at Object.dispose (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:106:9617)
+    at /home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:108:6974
+2024-10-18 09:35:17.395 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:35:17.395 [error] Error: Connection got disposed.
+    at Object.dispose (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:101:4124)
+    at Object.dispose (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:106:9617)
+    at /home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:108:6974
+2024-10-18 09:35:17.395 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:35:17.395 [error] Error: Connection got disposed.
+    at Object.dispose (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:101:4124)
+    at Object.dispose (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:106:9617)
+    at /home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:108:6974
+2024-10-18 09:35:17.395 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:35:17.395 [error] Error: Connection got disposed.
+    at Object.dispose (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:101:4124)
+    at Object.dispose (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:106:9617)
+    at /home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:108:6974
+2024-10-18 09:35:17.395 [error] [DEVSENSE.phptools-vscode] provider FAILED
+2024-10-18 09:35:17.395 [error] Error: Connection got disposed.
+    at Object.dispose (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:101:4124)
+    at Object.dispose (/home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:106:9617)
+    at /home/hplat/.vscode/extensions/devsense.phptools-vscode-1.51.16099-linux-x64/out/src/extension.js:108:6974
+2024-10-18 09:35:17.400 [info] Extension host with pid 4264 exiting with code 0

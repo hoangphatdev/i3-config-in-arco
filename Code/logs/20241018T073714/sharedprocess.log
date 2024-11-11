@@ -1,0 +1,36 @@
+2024-10-18 07:37:27.230 [info] Getting Manifest... eamodio.gitlens
+2024-10-18 07:37:28.437 [info] Installing extension: eamodio.gitlens {"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hplat/.config/Code/User/profiles/-2382b5f8/extensions.json","path":"/home/hplat/.config/Code/User/profiles/-2382b5f8/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-10-18 07:37:28.596 [info] Installing extension: eamodio.gitlens {"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hplat/.vscode/extensions/extensions.json","path":"/home/hplat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-10-18 07:37:34.372 [info] Extension signature verification result for eamodio.gitlens: UnknownError. Executed: true. Duration: 30ms.
+2024-10-18 07:37:34.704 [info] Extracted extension to file:///home/hplat/.vscode/extensions/eamodio.gitlens-15.6.2: eamodio.gitlens
+2024-10-18 07:37:34.732 [info] Renamed to /home/hplat/.vscode/extensions/eamodio.gitlens-15.6.2
+2024-10-18 07:37:34.782 [info] Marked extension as uninstalled eamodio.gitlens-15.6.1
+2024-10-18 07:37:34.829 [info] Extension installed successfully: eamodio.gitlens vscode-userdata:/home/hplat/.vscode/extensions/extensions.json
+2024-10-18 07:37:34.829 [info] Extension installed successfully: eamodio.gitlens vscode-userdata:/home/hplat/.config/Code/User/profiles/-2382b5f8/extensions.json
+2024-10-18 07:37:34.833 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hplat/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hplat/.vscode/extensions/extensions.json.vsctmp'
+    at lm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39253)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39360)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22661)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:15994)
+    at async eh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84484)
+    at async Kl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66600)
+2024-10-18 07:37:34.836 [info] Marked extension as uninstalled eamodio.gitlens-15.6.1
+2024-10-18 07:55:02.257 [error] [network] #16: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_TIMED_OUT
+2024-10-18 08:43:52.740 [error] [network] #963: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
+2024-10-18 08:43:52.740 [error] [network] #964: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
+2024-10-18 08:43:55.387 [error] [network] #965: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2024-10-18 08:43:55.567 [error] [network] #966: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2024-10-18 08:43:56.007 [error] [network] #967: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2024-10-18 08:43:59.120 [error] [network] #968: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2024-10-18 08:44:16.711 [error] [network] #969: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_INTERNET_DISCONNECTED
+2024-10-18 08:44:21.862 [error] [network] #970: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2024-10-18 08:44:25.183 [error] [network] #971: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2024-10-18 08:44:36.278 [error] [network] #972: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_INTERNET_DISCONNECTED
+2024-10-18 08:45:09.135 [error] [network] #973: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2024-10-18 08:45:12.428 [error] [network] #974: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2024-10-18 08:45:39.473 [error] [network] #975: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_INTERNET_DISCONNECTED
+2024-10-18 08:45:58.416 [error] [network] #976: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2024-10-18 08:46:01.072 [error] [network] #977: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2024-10-18 08:46:20.760 [error] [network] #978: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_INTERNET_DISCONNECTED
+2024-10-18 08:46:50.279 [error] [network] #979: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-10-18 08:46:53.022 [error] [network] #980: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED

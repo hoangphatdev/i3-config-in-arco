@@ -1,0 +1,8 @@
+[Info  - 8:47:51 PM] Initialising intelephense 1.12.6
+[Info  - 8:47:51 PM] Initialised in 8 ms
+[Info  - 8:47:51 PM] Searching file:///home/hplat/.vscode/extensions/bmewburn.vscode-intelephense-client-1.12.6/node_modules/intelephense/lib/stub for files to index.
+[Info  - 8:47:51 PM] Searching file:///opt/lampp/htdocs/web for files to index.
+[Info  - 8:47:51 PM] Indexing started.
+[Info  - 8:47:52 PM] Indexing ended. 143 files indexed in 1s.
+[Info  - 8:47:52 PM] Writing state to /home/hplat/.config/Code/User/workspaceStorage/139f7e724de50dd72d44235259329c50/bmewburn.vscode-intelephense-client/30f3571d.
+[Info  - 8:47:53 PM] Wrote state in 0.1s.

@@ -1,0 +1,825 @@
+2024-10-17 20:42:43.981 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-10-17 20:42:43.981 [info] Auto Sync is enabled.
+2024-10-17 20:42:43.981 [info] Auto Sync: Suspended until auth token is available.
+2024-10-17 20:42:47.456 [info] Auto Sync: Triggered by Interval
+2024-10-17 20:42:47.457 [info] Sync started.
+2024-10-17 20:42:49.135 [info] Settings: Updated remote settings
+2024-10-17 20:42:49.140 [info] Settings: Updated last synchronized settings
+2024-10-17 20:42:49.151 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:42:49.154 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:42:49.157 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:42:50.785 [info] GlobalState: Updated remote ui state. Updated: java.2.lastSessionDate,java.2.sessionCount,csharp.1.lastSessionDate,csharp.1.sessionCount,nps/lastSessionDate,nps/sessionCount,cpp.1.lastSessionDate,cpp.1.sessionCount,javascript.1.lastSessionDate,javascript.1.sessionCount,typescript.1.lastSessionDate,typescript.1.sessionCount.
+2024-10-17 20:42:50.836 [info] GlobalState: Updated last synchronized ui state
+2024-10-17 20:42:50.906 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:42:50.918 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:42:50.920 [info] Syncing profile. C++
+2024-10-17 20:42:51.025 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:42:51.042 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:42:51.060 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:42:51.071 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:42:51.281 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:42:51.338 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:42:51.339 [info] Syncing profile. java
+2024-10-17 20:42:51.418 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:42:51.426 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:42:51.452 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:42:51.482 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:42:51.600 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:42:51.636 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:42:51.637 [info] Syncing profile. php
+2024-10-17 20:42:51.737 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:42:51.773 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:42:51.788 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:42:51.832 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:42:51.960 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:42:52.032 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:42:52.034 [info] Sync done. Took 4580ms
+2024-10-17 20:42:52.364 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:42:52.364 [info] Sync started.
+2024-10-17 20:42:52.466 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:42:52.469 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:42:52.471 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:42:52.474 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:42:52.478 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:42:52.524 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:42:52.528 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:42:52.530 [info] Syncing profile. C++
+2024-10-17 20:42:52.533 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:42:52.535 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:42:52.537 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:42:52.539 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:42:52.540 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:42:52.573 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:42:52.574 [info] Syncing profile. java
+2024-10-17 20:42:52.576 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:42:52.580 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:42:52.582 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:42:52.584 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:42:52.586 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:42:52.618 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:42:52.618 [info] Syncing profile. php
+2024-10-17 20:42:52.626 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:42:52.638 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:42:52.640 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:42:52.642 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:42:52.646 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:42:52.692 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:42:52.694 [info] Sync done. Took 333ms
+2024-10-17 20:42:54.935 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:42:54.936 [info] Sync started.
+2024-10-17 20:42:56.305 [info] Settings: Updated remote settings
+2024-10-17 20:42:56.339 [info] Settings: Updated last synchronized settings
+2024-10-17 20:42:56.344 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:42:56.346 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:42:56.349 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:42:56.351 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:42:56.394 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:42:56.396 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:42:56.397 [info] Syncing profile. C++
+2024-10-17 20:42:56.399 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:42:56.401 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:42:56.403 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:42:56.405 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:42:56.406 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:42:56.437 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:42:56.441 [info] Syncing profile. java
+2024-10-17 20:42:56.445 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:42:56.449 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:42:56.451 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:42:56.453 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:42:56.455 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:42:56.486 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:42:56.497 [info] Syncing profile. php
+2024-10-17 20:42:56.502 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:42:56.505 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:42:56.509 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:42:56.513 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:42:56.515 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:42:56.577 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:42:56.582 [info] Sync done. Took 1647ms
+2024-10-17 20:43:38.527 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:43:38.528 [info] Sync started.
+2024-10-17 20:43:38.626 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:43:38.629 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:43:38.632 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:43:38.635 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:43:38.639 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:43:38.701 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:43:38.703 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:43:38.705 [info] Syncing profile. C++
+2024-10-17 20:43:38.708 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:43:38.711 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:43:38.713 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:43:38.716 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:43:38.717 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:43:38.755 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:43:38.756 [info] Syncing profile. java
+2024-10-17 20:43:38.758 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:43:38.760 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:43:38.762 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:43:38.764 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:43:38.765 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:43:38.798 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:43:38.798 [info] Syncing profile. php
+2024-10-17 20:43:38.805 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:43:38.808 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:43:38.810 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:43:38.812 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:43:38.814 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:43:38.870 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:43:38.871 [info] Sync done. Took 346ms
+2024-10-17 20:46:12.537 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:46:12.538 [info] Sync started.
+2024-10-17 20:46:12.926 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:46:12.929 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:46:12.932 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:46:12.934 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:46:12.937 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:46:13.032 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:46:13.033 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:46:13.034 [info] Syncing profile. C++
+2024-10-17 20:46:13.037 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:46:13.040 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:46:13.042 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:46:13.048 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:46:13.049 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:46:13.082 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:46:13.082 [info] Syncing profile. java
+2024-10-17 20:46:13.085 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:46:13.088 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:46:13.090 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:46:13.092 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:46:13.093 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:46:13.124 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:46:13.125 [info] Syncing profile. php
+2024-10-17 20:46:13.133 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:46:13.136 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:46:13.139 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:46:13.141 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:46:13.143 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:46:13.205 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:46:13.206 [info] Sync done. Took 670ms
+2024-10-17 20:46:24.464 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:46:24.464 [info] Sync started.
+2024-10-17 20:46:24.547 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:46:24.550 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:46:24.553 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:46:24.556 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:46:24.558 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:46:24.607 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:46:24.608 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:46:24.609 [info] Syncing profile. C++
+2024-10-17 20:46:24.613 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:46:24.616 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:46:24.619 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:46:24.621 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:46:24.623 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:46:24.653 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:46:24.654 [info] Syncing profile. java
+2024-10-17 20:46:24.656 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:46:24.658 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:46:24.659 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:46:24.661 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:46:24.663 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:46:24.692 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:46:24.693 [info] Syncing profile. php
+2024-10-17 20:46:24.699 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:46:24.701 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:46:24.704 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:46:24.706 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:46:24.708 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:46:24.758 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:46:24.760 [info] Sync done. Took 298ms
+2024-10-17 20:47:24.058 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:47:24.058 [info] Sync started.
+2024-10-17 20:47:24.136 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:47:24.138 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:47:24.141 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:47:24.143 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:47:24.146 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:47:24.242 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:47:24.246 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:47:24.247 [info] Syncing profile. C++
+2024-10-17 20:47:24.251 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:47:24.253 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:47:24.255 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:47:24.257 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:47:24.258 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:47:24.289 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:47:24.290 [info] Syncing profile. java
+2024-10-17 20:47:24.292 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:47:24.294 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:47:24.296 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:47:24.298 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:47:24.300 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:47:24.328 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:47:24.329 [info] Syncing profile. php
+2024-10-17 20:47:24.336 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:47:24.339 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:47:24.341 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:47:24.342 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:47:24.344 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:47:24.420 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:47:24.420 [info] Sync done. Took 363ms
+2024-10-17 20:47:38.434 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:47:38.434 [info] Sync started.
+2024-10-17 20:47:38.517 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:47:38.521 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:47:38.523 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:47:38.525 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:47:38.528 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:47:38.575 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:47:38.576 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:47:38.577 [info] Syncing profile. C++
+2024-10-17 20:47:38.579 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:47:38.582 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:47:38.584 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:47:38.587 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:47:38.589 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:47:38.614 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:47:38.615 [info] Syncing profile. java
+2024-10-17 20:47:38.617 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:47:38.620 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:47:38.622 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:47:38.624 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:47:38.626 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:47:38.655 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:47:38.656 [info] Syncing profile. php
+2024-10-17 20:47:38.665 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:47:38.667 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:47:38.670 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:47:38.672 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:47:38.674 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:47:38.730 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:47:38.731 [info] Sync done. Took 299ms
+2024-10-17 20:47:55.259 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:47:55.261 [info] Sync started.
+2024-10-17 20:47:55.390 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:47:55.393 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:47:55.396 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:47:55.398 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:47:55.401 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:47:55.452 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:47:55.454 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:47:55.455 [info] Syncing profile. C++
+2024-10-17 20:47:55.458 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:47:55.461 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:47:55.463 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:47:55.465 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:47:55.466 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:47:55.502 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:47:55.503 [info] Syncing profile. java
+2024-10-17 20:47:55.505 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:47:55.508 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:47:55.510 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:47:55.512 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:47:55.514 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:47:55.543 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:47:55.544 [info] Syncing profile. php
+2024-10-17 20:47:55.550 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:47:55.552 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:47:55.554 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:47:55.556 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:47:57.365 [info] GlobalState (php): Updated remote ui state. Added: workbench.view.extension.test.state.hidden.
+2024-10-17 20:47:57.370 [info] GlobalState (php): Updated last synchronized ui state
+2024-10-17 20:47:58.789 [info] Extensions (php): Updated remote extensions. Updated: ["bmewburn.vscode-intelephense-client"].
+2024-10-17 20:47:58.793 [info] Extensions (php): Updated last synchronized extensions.
+2024-10-17 20:47:58.795 [info] Sync done. Took 3536ms
+2024-10-17 20:47:59.147 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:47:59.147 [info] Sync started.
+2024-10-17 20:47:59.231 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:47:59.245 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:47:59.249 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:47:59.252 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:47:59.255 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:47:59.309 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:47:59.310 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:47:59.312 [info] Syncing profile. C++
+2024-10-17 20:47:59.316 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:47:59.318 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:47:59.320 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:47:59.323 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:47:59.325 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:47:59.356 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:47:59.356 [info] Syncing profile. java
+2024-10-17 20:47:59.359 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:47:59.361 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:47:59.363 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:47:59.365 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:47:59.367 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:47:59.398 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:47:59.400 [info] Syncing profile. php
+2024-10-17 20:47:59.406 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:47:59.412 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:47:59.428 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:47:59.450 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:47:59.454 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:47:59.542 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:47:59.622 [info] Sync done. Took 475ms
+2024-10-17 20:48:13.895 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:48:13.895 [info] Sync started.
+2024-10-17 20:48:14.007 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:48:14.010 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:48:14.015 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:48:14.017 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:48:14.020 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:48:14.060 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:48:14.061 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:48:14.062 [info] Syncing profile. C++
+2024-10-17 20:48:14.080 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:48:14.082 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:48:14.083 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:48:14.085 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:48:14.087 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:48:14.112 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:48:14.117 [info] Syncing profile. java
+2024-10-17 20:48:14.139 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:48:14.141 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:48:14.142 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:48:14.144 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:48:14.145 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:48:14.173 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:48:14.175 [info] Syncing profile. php
+2024-10-17 20:48:14.184 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:48:14.186 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:48:14.190 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:48:14.192 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:48:14.194 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:48:14.252 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:48:14.275 [info] Sync done. Took 382ms
+2024-10-17 20:48:57.714 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:48:57.714 [info] Sync started.
+2024-10-17 20:48:57.803 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:48:57.806 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:48:57.809 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:48:57.811 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:48:57.814 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:48:57.879 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:48:57.881 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:48:57.882 [info] Syncing profile. C++
+2024-10-17 20:48:57.885 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:48:57.888 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:48:57.890 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:48:57.894 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:48:57.895 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:48:57.926 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:48:57.927 [info] Syncing profile. java
+2024-10-17 20:48:57.929 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:48:57.931 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:48:57.933 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:48:57.935 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:48:57.936 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:48:57.964 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:48:57.966 [info] Syncing profile. php
+2024-10-17 20:48:57.981 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:48:57.987 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:48:57.990 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:48:57.992 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:48:57.994 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:48:58.054 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:48:58.055 [info] Sync done. Took 342ms
+2024-10-17 20:49:09.925 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:49:09.926 [info] Sync started.
+2024-10-17 20:49:10.023 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:49:10.026 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:49:10.029 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:49:10.031 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:49:10.033 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:49:10.090 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:49:10.093 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:49:10.094 [info] Syncing profile. C++
+2024-10-17 20:49:10.097 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:49:10.100 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:49:10.101 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:49:10.104 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:49:10.105 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:49:10.132 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:49:10.133 [info] Syncing profile. java
+2024-10-17 20:49:10.135 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:49:10.138 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:49:10.140 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:49:10.142 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:49:10.143 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:49:10.168 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:49:10.168 [info] Syncing profile. php
+2024-10-17 20:49:10.175 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:49:10.180 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:49:10.182 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:49:10.184 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:49:10.186 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:49:10.244 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:49:10.245 [info] Sync done. Took 320ms
+2024-10-17 20:49:18.499 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:49:18.500 [info] Sync started.
+2024-10-17 20:49:18.662 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:49:18.665 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:49:18.668 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:49:18.670 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:49:18.673 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:49:18.711 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:49:18.713 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:49:18.714 [info] Syncing profile. C++
+2024-10-17 20:49:18.731 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:49:18.734 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:49:18.736 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:49:18.738 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:49:18.740 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:49:18.769 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:49:18.770 [info] Syncing profile. java
+2024-10-17 20:49:18.786 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:49:18.789 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:49:18.791 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:49:18.793 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:49:18.795 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:49:18.830 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:49:18.831 [info] Syncing profile. php
+2024-10-17 20:49:18.867 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:49:18.869 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:49:18.872 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:49:18.874 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:49:19.810 [info] GlobalState (php): Updated remote ui state. Updated: workbench.activity.pinnedViewlets2.
+2024-10-17 20:49:19.821 [info] GlobalState (php): Updated last synchronized ui state
+2024-10-17 20:49:20.519 [info] Extensions (php): Updated remote extensions. Removed: ["github.copilot","github.copilot-chat"].
+2024-10-17 20:49:20.535 [info] Extensions (php): Updated last synchronized extensions.
+2024-10-17 20:49:20.537 [info] Sync done. Took 2041ms
+2024-10-17 20:49:29.378 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:49:29.378 [info] Sync started.
+2024-10-17 20:49:29.476 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:49:29.480 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:49:29.482 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:49:29.484 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:49:29.486 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:49:29.520 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:49:29.521 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:49:29.522 [info] Syncing profile. C++
+2024-10-17 20:49:29.536 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:49:29.538 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:49:29.540 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:49:29.542 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:49:29.543 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:49:29.574 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:49:29.576 [info] Syncing profile. java
+2024-10-17 20:49:29.590 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:49:29.592 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:49:29.594 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:49:29.596 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:49:29.597 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:49:29.621 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:49:29.622 [info] Syncing profile. php
+2024-10-17 20:49:29.652 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:49:29.655 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:49:29.657 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:49:29.659 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:49:30.385 [info] GlobalState (php): Updated remote ui state. Updated: workbench.explorer.views.state.hidden,workbench.activity.pinnedViewlets2.
+2024-10-17 20:49:30.401 [info] GlobalState (php): Updated last synchronized ui state
+2024-10-17 20:49:31.079 [info] Extensions (php): Updated remote extensions. Removed: ["ms-azuretools.vscode-docker"].
+2024-10-17 20:49:31.094 [info] Extensions (php): Updated last synchronized extensions.
+2024-10-17 20:49:31.096 [info] Sync done. Took 1720ms
+2024-10-17 20:49:34.338 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:49:34.338 [info] Sync started.
+2024-10-17 20:49:34.488 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:49:34.493 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:49:34.497 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:49:34.501 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:49:34.504 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:49:34.547 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:49:34.549 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:49:34.550 [info] Syncing profile. C++
+2024-10-17 20:49:34.583 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:49:34.587 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:49:34.590 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:49:34.593 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:49:34.596 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:49:34.637 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:49:34.637 [info] Syncing profile. java
+2024-10-17 20:49:34.656 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:49:34.659 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:49:34.663 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:49:34.667 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:49:34.669 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:49:34.702 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:49:34.703 [info] Syncing profile. php
+2024-10-17 20:49:34.736 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:49:34.747 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:49:34.753 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:49:34.757 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:49:34.760 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:49:35.547 [info] Extensions (php): Updated remote extensions. Removed: ["ms-vscode-remote.remote-containers"].
+2024-10-17 20:49:35.563 [info] Extensions (php): Updated last synchronized extensions.
+2024-10-17 20:49:35.572 [info] Sync done. Took 1231ms
+2024-10-17 20:49:44.596 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:49:44.596 [info] Sync started.
+2024-10-17 20:49:44.679 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:49:44.682 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:49:44.685 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:49:44.687 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:49:44.690 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:49:44.723 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:49:44.726 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:49:44.727 [info] Syncing profile. C++
+2024-10-17 20:49:44.729 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:49:44.731 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:49:44.733 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:49:44.735 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:49:44.736 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:49:44.760 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:49:44.760 [info] Syncing profile. java
+2024-10-17 20:49:44.763 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:49:44.767 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:49:44.769 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:49:44.771 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:49:44.773 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:49:44.795 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:49:44.795 [info] Syncing profile. php
+2024-10-17 20:49:45.423 [info] Settings (php): Updated remote settings
+2024-10-17 20:49:45.439 [info] Settings (php): Updated last synchronized settings
+2024-10-17 20:49:45.441 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:49:45.443 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:49:45.445 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:49:46.352 [info] GlobalState (php): Updated remote ui state. Updated: colorThemeData.
+2024-10-17 20:49:46.366 [info] GlobalState (php): Updated last synchronized ui state
+2024-10-17 20:49:46.408 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:49:46.412 [info] Sync done. Took 1817ms
+2024-10-17 20:50:01.964 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:50:01.964 [info] Sync started.
+2024-10-17 20:50:02.077 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:50:02.079 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:50:02.082 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:50:02.085 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:50:02.088 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:50:02.144 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:50:02.145 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:50:02.146 [info] Syncing profile. C++
+2024-10-17 20:50:02.150 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:50:02.152 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:50:02.155 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:50:02.158 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:50:02.159 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:50:02.206 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:50:02.208 [info] Syncing profile. java
+2024-10-17 20:50:02.214 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:50:02.220 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:50:02.223 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:50:02.227 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:50:02.230 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:50:02.278 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:50:02.279 [info] Syncing profile. php
+2024-10-17 20:50:02.292 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:50:02.298 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:50:02.304 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:50:02.307 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:50:02.310 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:50:02.384 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:50:02.385 [info] Sync done. Took 423ms
+2024-10-17 20:50:49.016 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:50:49.016 [info] Sync started.
+2024-10-17 20:50:49.129 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:50:49.137 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:50:49.143 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:50:49.146 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:50:49.148 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:50:49.229 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:50:49.234 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:50:49.235 [info] Syncing profile. C++
+2024-10-17 20:50:49.237 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:50:49.239 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:50:49.242 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:50:49.244 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:50:49.245 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:50:49.275 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:50:49.276 [info] Syncing profile. java
+2024-10-17 20:50:49.279 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:50:49.281 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:50:49.283 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:50:49.285 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:50:49.287 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:50:49.314 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:50:49.315 [info] Syncing profile. php
+2024-10-17 20:50:49.320 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:50:49.323 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:50:49.325 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:50:49.327 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:50:49.329 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:50:49.417 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:50:49.418 [info] Sync done. Took 403ms
+2024-10-17 20:51:00.717 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:51:00.717 [info] Sync started.
+2024-10-17 20:51:00.853 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:51:00.857 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:51:00.860 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:51:00.861 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:51:00.864 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:51:00.911 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:51:00.913 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:51:00.913 [info] Syncing profile. C++
+2024-10-17 20:51:00.916 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:51:00.920 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:51:00.923 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:51:00.925 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:51:00.927 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:51:00.968 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:51:00.968 [info] Syncing profile. java
+2024-10-17 20:51:00.970 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:51:00.972 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:51:00.975 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:51:00.977 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:51:00.978 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:51:01.001 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:51:01.002 [info] Syncing profile. php
+2024-10-17 20:51:01.007 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:51:01.009 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:51:01.012 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:51:01.013 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:51:01.015 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:51:01.069 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:51:01.070 [info] Sync done. Took 354ms
+2024-10-17 20:51:14.420 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:51:14.420 [info] Sync started.
+2024-10-17 20:51:14.514 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:51:14.516 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:51:14.519 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:51:14.521 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:51:14.524 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:51:14.565 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:51:14.568 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:51:14.568 [info] Syncing profile. C++
+2024-10-17 20:51:14.570 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:51:14.573 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:51:14.575 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:51:14.577 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:51:14.578 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:51:14.606 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:51:14.609 [info] Syncing profile. java
+2024-10-17 20:51:14.610 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:51:14.613 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:51:14.615 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:51:14.616 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:51:14.618 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:51:14.649 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:51:14.649 [info] Syncing profile. php
+2024-10-17 20:51:15.270 [info] Settings (php): Updated remote settings
+2024-10-17 20:51:15.286 [info] Settings (php): Updated last synchronized settings
+2024-10-17 20:51:15.290 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:51:15.293 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:51:15.296 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:51:15.298 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:51:15.343 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:51:15.344 [info] Sync done. Took 924ms
+2024-10-17 20:51:16.596 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:51:16.596 [info] Sync started.
+2024-10-17 20:51:16.674 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:51:16.676 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:51:16.678 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:51:16.680 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:51:16.682 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:51:16.719 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:51:16.721 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:51:16.723 [info] Syncing profile. C++
+2024-10-17 20:51:16.724 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:51:16.727 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:51:16.728 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:51:16.731 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:51:16.732 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:51:16.758 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:51:16.758 [info] Syncing profile. java
+2024-10-17 20:51:16.760 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:51:16.762 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:51:16.764 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:51:16.766 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:51:16.768 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:51:16.792 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:51:16.794 [info] Syncing profile. php
+2024-10-17 20:51:16.799 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:51:16.804 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:51:16.808 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:51:16.810 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:51:16.812 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:51:16.854 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:51:16.855 [info] Sync done. Took 261ms
+2024-10-17 20:51:19.181 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:51:19.181 [info] Sync started.
+2024-10-17 20:51:19.288 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:51:19.291 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:51:19.294 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:51:19.296 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:51:19.298 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:51:19.332 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:51:19.333 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:51:19.334 [info] Syncing profile. C++
+2024-10-17 20:51:19.336 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:51:19.339 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:51:19.342 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:51:19.344 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:51:19.345 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:51:19.371 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:51:19.371 [info] Syncing profile. java
+2024-10-17 20:51:19.373 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:51:19.375 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:51:19.377 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:51:19.379 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:51:19.380 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:51:19.408 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:51:19.410 [info] Syncing profile. php
+2024-10-17 20:51:20.076 [info] Settings (php): Updated remote settings
+2024-10-17 20:51:20.091 [info] Settings (php): Updated last synchronized settings
+2024-10-17 20:51:20.094 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:51:20.096 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:51:20.098 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:51:20.100 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:51:20.146 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:51:20.147 [info] Sync done. Took 967ms
+2024-10-17 20:52:08.313 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:52:08.314 [info] Sync started.
+2024-10-17 20:52:08.737 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:52:08.739 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:52:08.741 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:52:08.743 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:52:08.746 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:52:08.799 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:52:08.800 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:52:08.801 [info] Syncing profile. C++
+2024-10-17 20:52:08.803 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:52:08.806 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:52:08.808 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:52:08.810 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:52:08.811 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:52:08.841 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:52:08.842 [info] Syncing profile. java
+2024-10-17 20:52:08.844 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:52:08.846 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:52:08.848 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:52:08.851 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:52:08.852 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:52:08.878 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:52:08.879 [info] Syncing profile. php
+2024-10-17 20:52:08.883 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:52:08.886 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:52:08.888 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:52:08.890 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:52:08.892 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:52:08.946 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:52:08.947 [info] Sync done. Took 634ms
+2024-10-17 20:53:51.927 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:53:51.927 [info] Sync started.
+2024-10-17 20:53:52.005 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:53:52.008 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:53:52.010 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:53:52.012 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:53:52.015 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:53:52.074 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:53:52.075 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:53:52.076 [info] Syncing profile. C++
+2024-10-17 20:53:52.078 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:53:52.082 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:53:52.084 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:53:52.086 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:53:52.087 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:53:52.111 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:53:52.111 [info] Syncing profile. java
+2024-10-17 20:53:52.113 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:53:52.116 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:53:52.118 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:53:52.120 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:53:52.122 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:53:52.159 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:53:52.159 [info] Syncing profile. php
+2024-10-17 20:53:52.164 [info] Settings (php): No changes found during synchronizing settings.
+2024-10-17 20:53:52.166 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:53:52.168 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:53:52.170 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:53:52.172 [info] GlobalState (php): No changes found during synchronizing ui state.
+2024-10-17 20:53:52.227 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:53:52.227 [info] Sync done. Took 301ms
+2024-10-17 20:54:07.465 [info] Auto Sync: Triggered by Activity
+2024-10-17 20:54:07.465 [info] Sync started.
+2024-10-17 20:54:07.538 [info] Settings: No changes found during synchronizing settings.
+2024-10-17 20:54:07.540 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-10-17 20:54:07.542 [info] Snippets: No changes found during synchronizing snippets.
+2024-10-17 20:54:07.544 [info] Tasks: No changes found during synchronizing tasks.
+2024-10-17 20:54:07.548 [info] GlobalState: No changes found during synchronizing ui state.
+2024-10-17 20:54:07.597 [info] Extensions: No changes found during synchronizing extensions.
+2024-10-17 20:54:07.598 [info] Profiles: No changes found during synchronizing profiles.
+2024-10-17 20:54:07.600 [info] Syncing profile. C++
+2024-10-17 20:54:07.603 [info] Settings (C++): No changes found during synchronizing settings.
+2024-10-17 20:54:07.607 [info] Keybindings (C++): No changes found during synchronizing keybindings.
+2024-10-17 20:54:07.609 [info] Snippets (C++): No changes found during synchronizing snippets.
+2024-10-17 20:54:07.611 [info] Tasks (C++): No changes found during synchronizing tasks.
+2024-10-17 20:54:07.612 [info] GlobalState (C++): No changes found during synchronizing ui state.
+2024-10-17 20:54:07.641 [info] Extensions (C++): No changes found during synchronizing extensions.
+2024-10-17 20:54:07.641 [info] Syncing profile. java
+2024-10-17 20:54:07.644 [info] Settings (java): No changes found during synchronizing settings.
+2024-10-17 20:54:07.646 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2024-10-17 20:54:07.648 [info] Snippets (java): No changes found during synchronizing snippets.
+2024-10-17 20:54:07.651 [info] Tasks (java): No changes found during synchronizing tasks.
+2024-10-17 20:54:07.653 [info] GlobalState (java): No changes found during synchronizing ui state.
+2024-10-17 20:54:07.679 [info] Extensions (java): No changes found during synchronizing extensions.
+2024-10-17 20:54:07.679 [info] Syncing profile. php
+2024-10-17 20:54:08.294 [info] Settings (php): Updated remote settings
+2024-10-17 20:54:08.310 [info] Settings (php): Updated last synchronized settings
+2024-10-17 20:54:08.313 [info] Keybindings (php): No changes found during synchronizing keybindings.
+2024-10-17 20:54:08.315 [info] Snippets (php): No changes found during synchronizing snippets.
+2024-10-17 20:54:08.318 [info] Tasks (php): No changes found during synchronizing tasks.
+2024-10-17 20:54:09.167 [info] GlobalState (php): Updated remote ui state. Updated: workbench.activity.pinnedViewlets2.
+2024-10-17 20:54:09.182 [info] GlobalState (php): Updated last synchronized ui state
+2024-10-17 20:54:09.249 [info] Extensions (php): No changes found during synchronizing extensions.
+2024-10-17 20:54:09.252 [info] Sync done. Took 1787ms
