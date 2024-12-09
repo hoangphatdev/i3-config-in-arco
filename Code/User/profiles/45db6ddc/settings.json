@@ -1,9 +1,0 @@
-{
-    "files.autoSave": "afterDelay",
-    "editor.fontSize": 17,
-"C_Cpp.default.compilerPath": "C:\\msys64\\mingw64\\bin\\gcc.exe",
-"workbench.startupEditor": "none",
-"git.enableSmartCommit": true,
-"git.autofetch": true,
-"workbench.colorTheme": "Visual Studio Dark",
-}

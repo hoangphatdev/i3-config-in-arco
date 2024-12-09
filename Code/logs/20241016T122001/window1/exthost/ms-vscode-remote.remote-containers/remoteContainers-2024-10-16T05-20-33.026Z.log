@@ -1,8 +1,0 @@
-[2024-10-16T05:20:33.141Z] Initializing configuration support...
-[2024-10-16T05:20:33.142Z] Internal initialization of dev container support package...
-[2024-10-16T05:20:33.141Z] Dev Containers 0.388.0 in VS Code 1.94.2 (384ff7382de624fb94dbaf6da11977bba1ecd427).
-[2024-10-16T05:21:48.020Z] Start: Run: docker version --format {{json .}}
-[2024-10-16T05:21:48.030Z] Stop (10 ms): Run: docker version --format {{json .}}
-[2024-10-16T05:21:48.031Z] spawn docker ENOENT
-[2024-10-16T05:21:48.033Z] CLI host's PATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
-[2024-10-16T05:21:48.034Z] Stop (14 ms): Run: docker version --format {{json .}}
